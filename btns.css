@@ -22,7 +22,7 @@
 	border: none;
 	color: #ffffff;
 	padding: 20px;
-	/*margin: 5px;*/
+	margin: 5px;
 	font-size: 18px;
 	line-height: 18px;
 	border-radius: 10px;
@@ -31,7 +31,7 @@
 	cursor: pointer;
 	transition: all 400ms ease;
 }
-.efeito-1 {
+/*.efeito-1 {
 	background: #28348a;
 }
 .efeito-1:before {
@@ -104,7 +104,7 @@
 .efeito-6:hover {
 	transform-origin: center bottom;
 	transform: rotateX(-90deg) translateY(100%);
-}
+}*/
 .efeito-7 {
 	background: rgba(0,0,0,0);
 	color: #00CED1;

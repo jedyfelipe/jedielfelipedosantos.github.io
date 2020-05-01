@@ -1,11 +1,22 @@
 *{ margin: 0;padding: 0; }
 body{
 	background-image: url(img/img7.jpg);
+	background-size: contain;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	font-family: "trebuchet ms";
+}
+
+background-image {
+	width: auto;
+	height: auto;
+}
+
+img {
+	width: auto;
+	height: auto;
 }
 
 #box {
@@ -145,10 +156,11 @@ ul.menu li a:hover{
 
 
 hr {
+	position: absolute;
 	color: #00CED1;
 	width: 50px;
-	margin-left: 500px;
-	margin-top: 10px;
+	margin-left: 500px auto;
+	margin-top: 10px auto;
 }
 
 .tagcloud {
@@ -157,3 +169,12 @@ hr {
 	margin-top: -100px;
 	margin-left: -250px;
 }
+
+
+/*@media (max-width: 300%) {
+	.tagcloud{
+		width: 100%;
+	}
+
+}*/
+
