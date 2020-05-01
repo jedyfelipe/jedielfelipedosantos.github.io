@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="500">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Bungee%20Hairline:400); </style>
+</defs>
+<g>
+<g transform="translate(750,250) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="40.635px" font-style="normal" font-weight="400" x="-60.13333511352539" y="-16.254" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">HTML</text>
+</g>
+<g transform="translate(748,274) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="38.0953px" font-style="normal" font-weight="400" x="-36.625" y="-15.239999389648439" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">CSS</text>
+</g>
+<g transform="translate(742,222) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="33.0159px" font-style="normal" font-weight="400" x="-47.17499923706055" y="-13.206666564941408" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Java</text>
+</g>
+<g transform="translate(748,290) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="33.0159px" font-style="normal" font-weight="400" x="-34.599998474121094" y="-13.206666564941408" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">C++</text>
+</g>
+<g transform="translate(744,202) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="33.0159px" font-style="normal" font-weight="400" x="-22.75" y="-13.206666564941408" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">C#</text>
+</g>
+<g transform="translate(750,310) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="30.4763px" font-style="normal" font-weight="400" x="-75.17500305175781" y="-12.193333435058594" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Importa</text>
+</g>
+<g transform="translate(748,326) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="27.9366px" font-style="normal" font-weight="400" x="-70.2750015258789" y="-11.174624999999999" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">devagar</text>
+</g>
+<g transform="translate(708,266) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="27.9366px" font-style="normal" font-weight="400" x="-31.008333206176758" y="-11.174624999999999" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Não</text>
+</g>
+<g transform="translate(748,340) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="25.3969px" font-style="normal" font-weight="400" x="-101.63333129882812" y="-10.15999984741211" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Persistencia</text>
+</g>
+<g transform="translate(654,248) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="25.3969px" font-style="normal" font-weight="400" x="-43.82500076293945" y="-10.15999984741211" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">desde</text>
+</g>
+<g transform="translate(814,280) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="25.3969px" font-style="normal" font-weight="400" x="-35.55833435058594" y="-10.15999984741211" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Pare</text>
+</g>
+<g transform="translate(708,168) rotate(-78.49164975872522,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="22.8572px" font-style="normal" font-weight="400" x="-57.80833435058594" y="-9.142875" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Caminho</text>
+</g>
+<g transform="translate(698,352) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="20.3175px" font-style="normal" font-weight="400" x="-76.3499984741211" y="-8.127" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">dificuldade</text>
+</g>
+<g transform="translate(702,372) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="20.3175px" font-style="normal" font-weight="400" x="-81.375" y="-8.127" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">programação</text>
+</g>
+<g transform="translate(668,276) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="20.3175px" font-style="normal" font-weight="400" x="-47.06666564941406" y="-8.127" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">dev&amp;gt;</text>
+</g>
+<g transform="translate(648,260) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="20.3175px" font-style="normal" font-weight="400" x="-34.358333587646484" y="-8.127" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">exito</text>
+</g>
+<g transform="translate(804,256) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="20.3175px" font-style="normal" font-weight="400" x="-27.516666412353516" y="-8.127" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">foco</text>
+</g>
+<g transform="translate(632,140) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-61.07500076293945" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">capacidade</text>
+</g>
+<g transform="translate(626,200) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-54.625" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">venenatis</text>
+</g>
+<g transform="translate(630,224) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-55.25833511352539" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">vulputate</text>
+</g>
+<g transform="translate(634,304) rotate(-20.553600639275807,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-49.224998474121094" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">projetos</text>
+</g>
+<g transform="translate(750,392) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-42.79999923706055" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">servers</text>
+</g>
+<g transform="translate(748,408) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-37.43333435058594" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">paixão</text>
+</g>
+<g transform="translate(644,188) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-37.43333435058594" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">paixão</text>
+</g>
+<g transform="translate(638,212) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-38.42499923706055" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">tempor</text>
+</g>
+<g transform="translate(854,316) rotate(0,0,0)">
+<a xlink:href="https://www.erat.com">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-38.86666488647461" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">ubuntu</text>
+</a>
+</g>
+<g transform="translate(650,320) rotate(0,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-31.424999237060547" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">linux</text>
+</g>
+<g transform="translate(702,168) rotate(84.03526354735376,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-32.31666564941406" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">mysql</text>
+</g>
+<g transform="translate(654,172) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-32.150001525878906" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">scrum</text>
+</g>
+<g transform="translate(750,420) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-31.816667556762695" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">tempo</text>
+</g>
+<g transform="translate(594,252) rotate(66.31706959371255,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-18.883333206176758" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">php</text>
+</g>
+<g transform="translate(728,166) rotate(66.33369920316765,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="17.7778px" font-style="normal" font-weight="400" x="-12.616666793823242" y="-7.113333129882813" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">xp</text>
+</g>
+<g transform="translate(758,428) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-45.03333282470703" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">ultricies</text>
+</g>
+<g transform="translate(644,156) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-43.391666412353516" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">pharetra</text>
+</g>
+<g transform="translate(760,440) rotate(0,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-43.09166717529297" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">pulvinar</text>
+</g>
+<g transform="translate(610,328) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-37.20000076293945" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">dapibus</text>
+</g>
+<g transform="translate(580,256) rotate(73.01156685140556,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-37.58333206176758" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">viverra</text>
+</g>
+<g transform="translate(756,452) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-32.25833511352539" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">acutor</text>
+</g>
+<g transform="translate(660,124) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-32.224998474121094" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">mollis</text>
+</g>
+<g transform="translate(756,464) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-31.200000762939453" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">tellus</text>
+</g>
+<g transform="translate(660,112) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-32.275001525878906" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">tempus</text>
+</g>
+<g transform="translate(852,300) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-28.70833396911621" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">magna</text>
+</g>
+<g transform="translate(666,390) rotate(-66.71839423627347,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-21.274999618530273" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">ante</text>
+</g>
+<g transform="translate(592,276) rotate(-85.96445942291066,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-21.649999618530273" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">arcu</text>
+</g>
+<g transform="translate(842,284) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-20.924999237060547" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">duis</text>
+</g>
+<g transform="translate(870,324) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-21.174999237060547" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">eros</text>
+</g>
+<g transform="translate(602,172) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-22.633333206176758" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">urna</text>
+</g>
+<g transform="translate(628,284) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-15.975000381469727" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">dui</text>
+</g>
+<g transform="translate(592,184) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="15.2381px" font-style="normal" font-weight="400" x="-14.858333587646484" y="-6.09525" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">est</text>
+</g>
+<g transform="translate(628,100) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-50.63333511352539" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">condimentum</text>
+</g>
+<g transform="translate(778,476) rotate(0,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-47.608333587646484" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">consectetur</text>
+</g>
+<g transform="translate(622,88) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-44.75833511352539" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">vestibulum</text>
+</g>
+<g transform="translate(774,488) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-37.29999923706055" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">efficitur</text>
+</g>
+<g transform="translate(612,380) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-41.41666793823242" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">fermentum</text>
+</g>
+<g transform="translate(620,76) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-39.07500076293945" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">fringilla</text>
+</g>
+<g transform="translate(624,416) rotate(-72.35489260324916,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-39.25" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">porttitor</text>
+</g>
+<g transform="translate(610,64) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-33.16666793823242" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">suscipit</text>
+</g>
+<g transform="translate(602,52) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-31.34166717529297" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">pretium</text>
+</g>
+<g transform="translate(600,124) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-26.549999237060547" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">ligula</text>
+</g>
+<g transform="translate(598,340) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-27.450000762939453" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">mauris</text>
+</g>
+<g transform="translate(600,352) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-21.90833282470703" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">lacus</text>
+</g>
+<g transform="translate(600,364) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-23.241666793823242" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Morbi</text>
+</g>
+<g transform="translate(604,112) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-22.65833282470703" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">purus</text>
+</g>
+<g transform="translate(598,392) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-21.20833396911621" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">velit</text>
+</g>
+<g transform="translate(804,462) rotate(7.874615647259784,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-18.16666603088379" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">enim</text>
+</g>
+<g transform="translate(596,404) rotate(0,0,0)">
+<text fill="rgb(255,137,3)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-18.058332443237305" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">nibh</text>
+</g>
+<g transform="translate(658,304) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-13.225000381469727" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">leo</text>
+</g>
+<g transform="translate(592,416) rotate(0,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-14.25" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">non</text>
+</g>
+<g transform="translate(586,208) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="12.6984px" font-style="normal" font-weight="400" x="-13.016666412353516" y="-5.079999923706055" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Sed</text>
+</g>
+<g transform="translate(656,144) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-33.099998474121094" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">elementum</text>
+</g>
+<g transform="translate(718,376) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-26.975000381469727" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">ultrices</text>
+</g>
+<g transform="translate(796,280) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-24.96666717529297" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">blandit</text>
+</g>
+<g transform="translate(596,30) rotate(24.722157264827292,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-25.33333396911621" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">gravida</text>
+</g>
+<g transform="translate(600,144) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-24.141666412353516" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">lacinia</text>
+</g>
+<g transform="translate(764,496) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-24.758333206176758" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">laoreet</text>
+</g>
+<g transform="translate(770,376) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-18.075000762939453" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">metus</text>
+</g>
+<g transform="translate(866,332) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-18.40833282470703" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">nulla</text>
+</g>
+<g transform="translate(630,394) rotate(88.15970720477705,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-17.258333206176758" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">risus</text>
+</g>
+<g transform="translate(590,158) rotate(24.75179605904424,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="10.1588px" font-style="normal" font-weight="400" x="-13.766666412353516" y="-4.066666793823242" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">orci</text>
+</g>
+<g transform="translate(812,256) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-30.899999618530273" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">sollicitudin</text>
+</g>
+<g transform="translate(582,436) rotate(64.01262106420599,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-23.608333587646484" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">convallis</text>
+</g>
+<g transform="translate(648,224) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-24.049999237060547" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">hendredit</text>
+</g>
+<g transform="translate(712,352) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-23.450000762939453" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">penatibus</text>
+</g>
+<g transform="translate(844,288) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-23.45833396911621" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">ridiculus</text>
+</g>
+<g transform="translate(738,392) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-20.84166717529297" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">placerat</text>
+</g>
+<g transform="translate(696,280) rotate(0,0,0)">
+<text fill="rgb(0,191,255)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-20.016666412353516" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">sagittis</text>
+</g>
+<g transform="translate(666,352) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-21.241666793823242" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">volutpat</text>
+</g>
+<g transform="translate(604,296) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-19.366666793823242" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">aliquam</text>
+</g>
+<g transform="translate(606,224) rotate(0,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-18.350000381469727" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">aliquet</text>
+</g>
+<g transform="translate(604,368) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-18.983333587646484" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">euismod</text>
+</g>
+<g transform="translate(690,276) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-17.799999237060547" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">feugiat</text>
+</g>
+<g transform="translate(594,40) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-17.725000381469727" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">iaculis</text>
+</g>
+<g transform="translate(716,138) rotate(38.515525682711846,0,0)">
+<text fill="rgb(74,184,11)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-16.108333587646484" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">dictum</text>
+</g>
+<g transform="translate(708,180) rotate(0,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-15.633333206176758" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">mattis</text>
+</g>
+<g transform="translate(804,448) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-16.366666793823242" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">montes</text>
+</g>
+<g transform="translate(772,190) rotate(-82.93094735634944,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-14.741666793823242" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">sociis</text>
+</g>
+<g transform="translate(710,192) rotate(0,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-13.641666412353516" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">augue</text>
+</g>
+<g transform="translate(732,268) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-11.149999618530273" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">diam</text>
+</g>
+<g transform="translate(740,224) rotate(68.2549906049275,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-10.966666221618652" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">nunc</text>
+</g>
+<g transform="translate(752,244) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-7.616666793823242" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">dis</text>
+</g>
+<g transform="translate(766,256) rotate(0,0,0)">
+<text fill="rgb(101,255,129)" stroke="none" font-family="Bungee Hairline" font-size="7.61906px" font-style="normal" font-weight="400" x="-8.550000190734863" y="-3.047625" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">mus</text>
+</g>
+<g transform="translate(758,264) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="5.07938px" font-style="normal" font-weight="400" x="-8.175000190734863" y="-2.033333396911621" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">felis</text>
+</g>
+<g transform="translate(734,250) rotate(84.91620279095878,0,0)">
+<text fill="rgb(0,255,234)" stroke="none" font-family="Bungee Hairline" font-size="5.07938px" font-style="normal" font-weight="400" x="-6.625" y="-2.033333396911621" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">nisi</text>
+</g>
+<g transform="translate(734,272) rotate(0,0,0)">
+<text fill="rgb(230,219,4)" stroke="none" font-family="Bungee Hairline" font-size="2.53969px" font-style="normal" font-weight="400" x="-10.416666984558105" y="-1.015875" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">pellentesque</text>
+</g>
+<g transform="translate(758,272) rotate(0,0,0)">
+<text fill="rgb(152,61,255)" stroke="none" font-family="Bungee Hairline" font-size="2.53969px" font-style="normal" font-weight="400" x="-6.4666666984558105" y="-1.015875" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">facilisi</text>
+</g>
+<g transform="translate(758,276) rotate(0,0,0)">
+<text fill="rgb(255,201,5)" stroke="none" font-family="Bungee Hairline" font-size="2.53969px" font-style="normal" font-weight="400" x="-6.541666507720947" y="-1.015875" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">maximus</text>
+</g>
+</g>
+</svg>

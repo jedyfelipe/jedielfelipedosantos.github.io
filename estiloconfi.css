@@ -1,17 +1,17 @@
 *{ margin: 0;padding: 0; }
 body{
-	background-image: url(img/img1.jpg);
+	background-image: url(img/img7.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: cover; 
-	font-family: "trebuchet ms"; 
+	background-size: cover;
+	font-family: "trebuchet ms";
 }
 
 #box {
 	margin: auto;
 	color: white;
-	background-color: rgba(0,0,0,0.6);/*Valor opecity declarado diretamente no background usando RGBA*/
+	background-color: rgba(0,0,0,0.3);/*Valor opecity declarado diretamente no background usando RGBA*/
 	text-align: center;
 	width: 100%;
 	height: 500px;
@@ -28,6 +28,13 @@ h1 {
 	top: 450px;
 	width: 100%;
 	height: 20%;
+}
+
+.dados2 {
+	position: absolute;
+	top: 165%;
+	width: 100%;
+	height: 5%;
 }
 
 ul.menu{
@@ -49,22 +56,104 @@ ul.menu li a:hover{
     color: #8BBADC;
 }
 
+
 .section {
 	margin: auto;
 	color: black;
-	background-color: white;
+	background-color: #FFFFF0;
 	text-align: center;
 	width: 100%;
-	height: 500px;
+	height: 650px;
 }
 
 .section iframe {
 	position: absolute;
 	margin-left: -500px;
-	margin-top: 70px;
+	margin-top: 100px;
 }
 
 .frase {
+	/*idth: 200px;*/
 	position: absolute;
+	margin-left: 900px;
+	margin-top: 200px;
+}
+
+.rodape {
+	background-color: black;
+	text-align: center;
+	color: white;
+	width: 100%;
+	height: 15%;
+}
+
+.facebook:hover {
+	background-color:#3b5998;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.instagram:hover {
+	background-color:#517fa4;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.linkedin:hover {
+	background-color: #007bb6;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.github:hover {
+	background-color:#3b5998;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.youtube:hover {
+	background-color: #bb0000;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.pinterest:hover {
+	background-color:#cb2027;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.skype:hover {
+	background-color:#00aff0;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.twitter:hover {
+	background-color:#00aced;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.discord:hover {
+	background-color:#696969;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.whatsapp:hover {
+	background-color:#34af23;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+.email:hover {
+	background-color:#da4d39;
+	border-radius: 3px;
+	transition: all 400ms;
+}
+
+
+hr {
+	color: #00CED1;
+	width: 50px;
 	margin-left: 500px;
+	margin-top: 10px;
+}
+
+.tagcloud {
+	width: 320px;
+	height: 320px;
+	margin-top: -100px;
+	margin-left: -250px;
 }
